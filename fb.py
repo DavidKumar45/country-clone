@@ -910,7 +910,7 @@ def pilih_usa():
             time.sleep(1)
 
     print '\x1b[1;96m--------------------------------------------------'
-    print '\n\x1b[1;97m[\x1b[1;95m\xe2\x97\x8f\x1b[1;97m] \x1b[1;95mUse Airplane Mode If cp isn't coming'
+    print '\n\x1b[1;97m[\x1b[1;95m\xe2\x97\x8f\x1b[1;97m] \x1b[1;95mUse Airplane Mode If cp is not coming'
     print '\n\x1b[1;97m[\x1b[1;95m\xe2\x97\x8f\x1b[1;97m] \x1b[1;95mCheckpoint Account Open After 7 days'
     print '\n\x1b[1;97m[\x1b[1;95m\xe2\x97\x8f\x1b[1;97m] \x1b[1;95m Crated By : Angga Kurniawan'
     print '\x1b[1;96m--------------------------------------------------'
